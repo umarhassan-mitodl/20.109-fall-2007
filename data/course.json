@@ -1,0 +1,63 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biomaterials"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ]
+  ],
+  "legacy_uid": "1868c546-a4eb-ddda-f557-3bc35dadd9e9",
+  "instructors": {
+    "content": [
+      "746752df-9138-22c0-6fce-a6cff4a50ab5",
+      "df2efa40-1f67-b75c-affa-05c7d5fb547c",
+      "60b142b1-96ec-1963-da68-75b4674fb047",
+      "d5685fa1-8937-dc00-da3b-4ef0740ed6bd",
+      "3047386e-62d1-5a3d-0182-e0897415e8ae",
+      "79c7d9b8-d0f6-d285-30a5-798050214e99"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "099f9c18-f4f1-ccbf-4c21-b5198e2c60ba",
+    "website": "20-109-laboratory-fundamentals-in-biological-engineering-fall-2007"
+  },
+  "course_title": "Laboratory Fundamentals in Biological Engineering",
+  "course_description": "This course introduces experimental biochemical and molecular techniques from a quantitative engineering perspective. Experimental design, rigorous data analysis, and scientific communication form the underpinnings of this subject. Three discovery-based experimental modules focus on genome engineering, expression engineering, and biomaterial engineering.\n\nThis OCW site is based on the source OpenWetWare class Wiki, found at {{% resource_link \"01642ff3-0e05-4dbe-bdd6-ed30472d1288\" \"20.109(F07): Laboratory Fundamentals of Biological Engineering\" %}}.\n",
+  "department_numbers": [
+    "20"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "20.109",
+  "course_image_thumbnail": {
+    "content": "f20cb8c2-b36f-260d-6e5f-f97dbbe98c86",
+    "website": "20-109-laboratory-fundamentals-in-biological-engineering-fall-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "7ae56fa5-d55b-4925-9fe4-ffc0193df4e3",
+  "site_short_id": "20.109-fall-2007",
+  "site_url_path": "courses/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007",
+  "title": "Course Metadata"
+}
